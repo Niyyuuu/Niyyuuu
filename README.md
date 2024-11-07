@@ -8,12 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=niyyuuu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
 </div>
 
-###
 
-<h3 align="left">🐍 GitHub Contribution Snake</h3>
-<div align="center">
-  <img src="https://github.com/niyyuuu/niyyuuu/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
-</div>
 
 
 
