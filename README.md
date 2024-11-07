@@ -11,10 +11,10 @@
 ###
 
 <h3 align="left">🐍 GitHub Contribution Snake</h3>
-
 <div align="center">
-  <img src="https://github.com/niyyuuu/niyyuuu/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+  <img src="https://github.com/niyyuuu/niyyuuu/raw/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
 </div>
+
 
 
 <div align="center">
