@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 0 * * *"  # menjalankan setiap hari pada tengah malam UTC
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+      - name: Generate Snake
+        uses: Platane/snk@v2
+        with:
+          github_user_name: niyyuuu  # ganti dengan username Anda
+          output: dist/snake.svg
+
+      - name: Upload Snake to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
