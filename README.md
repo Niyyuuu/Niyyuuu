@@ -43,49 +43,56 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ps" height="50" alt="adobephotoshop logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="50" alt="vercel logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="50" alt="visualstudio logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="50" alt="stackoverflow logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="laravel logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="50" alt="flutter logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="50" alt="materialui logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
+
 </div>
 
 ###
