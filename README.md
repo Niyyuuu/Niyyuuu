@@ -1,7 +1,6 @@
 <div align="center">
   <img height="150" src="https://i.postimg.cc/BQ8GBXcB/Vector.png"  />
 </div>
-
 <h3 align="left">👀 View Profile</h3>
 
 <div align="left">
