@@ -1,4 +1,6 @@
-<div align="center">
+
+
+<div align="left">
   <img height="150" src="https://i.postimg.cc/BQ8GBXcB/Vector.png"  />
 </div>
 <h3 align="left">👀 View Profile</h3>
@@ -27,8 +29,6 @@
 </div>
 
 ###
-
-<h1 align="left">Hey There!👋</h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
