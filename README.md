@@ -43,7 +43,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
@@ -100,7 +100,7 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=niyyuuu&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyyuuu&layout=compact&theme=radical" height="180" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niyyuuu&theme=radical" height="180" alt="GitHub streak" />
