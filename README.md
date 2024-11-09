@@ -1,19 +1,17 @@
 
 
-<div align="left">
+<div align="center">
   <img height="150" src="https://i.postimg.cc/BQ8GBXcB/Vector.png"  />
 </div>
-<h3 align="left">👀 View Profile</h3>
+<h3 align="center">👀 View Profile</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=niyyuuu&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views counter" />
 </div>
 
+###
 
-
-
-
-<div align="left">
+<div align="center">
   <a href="niyyuuuu@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="30" alt="gmail logo"  />
   </a>
@@ -30,20 +28,20 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm Niyyuuu from Indonesia<br><br>- 🔭 I’m currently studying at TELS<br>- 📚 I'm currently learning Laravel</p>
+<p align="center">I'm Niyyuuu from Indonesia<br><br>- 🔭 I’m currently studying at TELS<br>- 📚 I'm currently learning Laravel</p>
 
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=ae" height="50" alt="adobeaftereffects logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ai" height="50" alt="adobeillustrator logo"  />
@@ -98,7 +96,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="center">🔥 My Stats :</h3>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=niyyuuu&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
