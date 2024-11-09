@@ -11,7 +11,7 @@
 
 
 
-<div align="center">
+<div align="left">
   <a href="niyyuuuu@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="30" alt="gmail logo"  />
   </a>
@@ -34,7 +34,7 @@
 
 ###
 
-<p align="center">I'm Niyyuuu from Indonesia<br><br>- 🔭 I’m currently studying at TELS<br>- 📚 I'm currently learning Laravel</p>
+<p align="left">I'm Niyyuuu from Indonesia<br><br>- 🔭 I’m currently studying at TELS<br>- 📚 I'm currently learning Laravel</p>
 
 
 ###
