@@ -28,6 +28,9 @@
 
 ###
 
+
+
+
 <h3 align="center">👩‍💻  About Me</h3>
 
 ###
@@ -98,8 +101,13 @@
 
 <h3 align="center">🔥 My Stats :</h3>
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niyyuuu&show_icons=true&theme=radical" height="180" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyyuuu&layout=compact&theme=radical" height="180" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niyyuuu&theme=radical" height="180" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=niyyuuu&theme=radical" height="180" alt="GitHub streak" />
 </div>
+
+
+
+
+
