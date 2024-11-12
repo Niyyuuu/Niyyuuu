@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">📫 Connect with Me</h3>
+<h3 align="center">📫 Connect with Me </h3>
 
 <p align="center">
   <a href="mailto:niyyuuuu@gmail.com" target="_blank">
