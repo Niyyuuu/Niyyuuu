@@ -2,7 +2,7 @@
   <img height="150" src="https://i.postimg.cc/BQ8GBXcB/Vector.png" alt="Profile Vector Image" />
 </div>
 
-<h1 align="center">Hi there, I'm Niyyuuu 👋</h1>
+<h1 align="center">Hi there, I'm Niyyuuu</h1>
 <h3 align="center">A passionate developer from Indonesia, currently studying at TELS and learning Laravel</h3>
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center">📫 Connect with Me </h3>
+<h3 align="center">📫 Connect with Me</h3>
 
 <p align="center">
   <a href="mailto:niyyuuuu@gmail.com" target="_blank">
